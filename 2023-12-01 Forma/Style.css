@@ -1,0 +1,16 @@
+#class1 {width: 900px;
+height: 700px;
+background-color: grey;
+margin: auto; margin-top: 50px;
+}
+p 
+{text-align: center;
+}
+p {
+    font-size: larger; padding: 5%;
+}
+input[type=text] {
+    border: none;
+    border-bottom: 3px solid black;
+  }
+  

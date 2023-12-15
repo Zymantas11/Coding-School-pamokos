@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+h1 {
+
+    color:red;
+    size: 50px;
+   
+}
+.blog-post {
+    position: relative;
+    left: 50%;
+    color:blue;
+    background-color: black;
+    width: 50%;
+    margin: 10px;
+}
+
+
+.mygtukas {
+    position: relative;
+    color: blueviolet;
+}
+
+.siaip {
+    background-color: blanchedalmond;
+    position: relative;
+    height: 500px;
+}

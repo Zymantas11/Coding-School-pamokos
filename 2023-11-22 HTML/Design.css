@@ -1,0 +1,16 @@
+header {text-align: center;}
+header img {
+height: 200px;
+}
+nav {background-color: green;
+padding: 10px 0;}
+nav a {color: blue;
+text-decoration: none;
+margin: 0 30px}
+
+section {background-color: #eee;
+    padding: 30px;}
+
+section img {width: 100%}
+h2 {background-color: aqua;
+color: black; padding: 20px;}
